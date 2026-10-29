@@ -1,0 +1,4 @@
+# 核心依赖：裸 ReAct + RAG（必须）
+requests>=2.31
+jieba>=0.42.1
+python-dotenv>=1.0

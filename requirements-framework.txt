@@ -1,0 +1,4 @@
+# LangChain 重构版依赖（第 3 周用）
+# 安装：pip install -r requirements-framework.txt
+langchain>=0.3,<0.4
+langchain-openai>=0.2,<0.4
